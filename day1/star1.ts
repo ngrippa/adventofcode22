@@ -12,3 +12,4 @@ export const calcMaxElf = (input: string) => {
   );
   return Math.max(...scores);
 };
+
